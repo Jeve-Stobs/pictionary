@@ -11,19 +11,19 @@ var io = socket_io(server);
 var users = [];
 
 var words = [
-    "God", "word", "letter", "number", "person", "pen", "police", "people",
-    "sound", "water", "breakfast", "place", "man", "men", "woman", "women", "boy",
-    "girl", "cereal box", "Oregon Trail", "week", "month", "name", "cloud", "line", "water",
-    "land", "home", "hand", "house", "picture", "animal", "mother", "father",
-    "big foot", "sister", "world", "head", "page", "country", "question",
-    "darth vader", "school", "plant", "food", "sun", "state", "eye", "city", "tree",
-    "farm", "story", "sea", "night", "day", "life", "north", "south", "east",
-    "west", "child", "children", "example", "paper", "music", "river", "car",
-    "Bill Gates", "feet", "book", "science", "room", "friend", "idea", "fish",
+    "pencil", "pen", "letter", "notebook", "paper", "policeman", "computer", "people",
+    "glass window", "water", "breakfast", "chair", "man", "men", "woman", "women", "boy",
+    "girl", "cereal box", "Santa", "tree", "shoes", "whale", "article", "lanyard", "glass of milk",
+    "desk", "home", "hand", "house", "picture", "animal", "mother", "father",
+    "big foot", "sister", "world", "head", "page", "country", "map",
+    "darth vader", "school", "plant", "food", "sun", "state", "eye", "country", "bush",
+    "farm", "coloring book", "sea", "night", "day", "life", "north", "south", "east",
+    "west", "child", "children", "icon", "paper", "music", "river", "car",
+    "runner", "feet", "book", "science", "room", "friend", "powercord", "fish",
     "mountain", "horse", "watch", "color", "face", "wood", "list", "bird",
     "body", "fart", "family", "song", "door", "forest", "wind", "ship", "area",
-    "rock", "Captain Hook", "fire", "problem", "airplane", "top", "bottom", "king",
-    "space", "whale", "unicorn", "narwhal", "furniture", "sunset", "sunburn", "Grumpy cat", "feather", "pigeon"
+    "rock", "Captain", "fire", "problem", "airplane", "wet wipe", "hand sanitizer", "king",
+    "space", "camel", "unicorn", "narwhal", "furniture", "sunset", "sunburn", "cat", "feather", "pigeon"
 ];
 
 function newWord() {
