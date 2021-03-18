@@ -19,7 +19,7 @@ var words = [
     "darth vader", "school", "plant", "food", "sun", "state", "eye", "country", "bush",
     "farm", "coloring book", "sea", "night", "day", "life", "north", "south", "east",
     "west", "child", "children", "icon", "paper", "music", "river", "car",
-    "runner", "feet", "book", "science", "room", "friend", "powercord", "fish",
+    "runner", "foot", "book", "science", "room", "friend", "powercord", "fish",
     "mountain", "horse", "watch", "color", "face", "wood", "list", "bird",
     "body", "fart", "family", "song", "door", "forest", "wind", "ship", "area",
     "rock", "Captain", "fire", "problem", "airplane", "wet wipe", "hand sanitizer", "king",
